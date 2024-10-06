@@ -21,7 +21,7 @@ const Register = () => {
       localStorage.setItem('user', JSON.stringify(user));
 
       
-      window.location.href = '/employee'; 
+      window.location.href = '/Todo'; 
     } catch (error) {
       setError(error.message);
     }
