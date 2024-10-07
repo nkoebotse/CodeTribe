@@ -44,3 +44,6 @@ Run the quiz in your terminal
 Open your terminal and navigate to the project folder. Run the following command to start the quiz:
 
 node quiz.js
+
+
+created by elliot sekgobela
