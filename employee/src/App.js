@@ -12,8 +12,9 @@ function App() {
     image: null 
   });
   const [isEditing, setIsEditing] = useState(null); 
+
   const handleFileChange = (e) => {
-    setInput({ ...input, image: e.target.files[0] }); 
+    setInput({ ...input, image: e.target.files[0] });
   };
 
   const addOrUpdateTodo = () => {
@@ -43,10 +44,19 @@ function App() {
     setIsEditing(todo.id);
   };
 
+  // Inline style for background
+  const backgroundStyle = {
+    backgroundImage: 'url("/assets/salt-harvesting-3060093_1280.jpg")', // Ensure the correct path to the image
+    backgroundSize: 'cover',
+    backgroundPosition: 'center',
+    minHeight: '100vh', // Full height of the viewport
+    padding: '20px',
+  };
+
   return (
-    <div>
+    <div style={backgroundStyle}> {/* Apply background style here */}
       <Layout />
-      <div className="employee-position">
+      <div className="employee-position" style={{ backgroundColor: 'rgba(255, 255, 255, 0.8)', padding: '20px', borderRadius: '10px' }}>
         <h1>Employee</h1>
 
         <input
