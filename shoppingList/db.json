@@ -1,11 +1,13 @@
 {
-    "categories": [
-      { "id": 1, "name": "Dairy" },
-      { "id": 2, "name": "Bakery" }
-    ],
-    "products": [
-      { "id": 1, "name": "Milk", "categoryId": 1 },
-      { "id": 2, "name": "Bread", "categoryId": 2 }
-    ]
-  }
-  
+  "categories": [
+    { "id": 1, "name": "Dairy" },
+    { "id": 2, "name": "Bakery" }
+  ],
+  "products": [
+    { "id": 1, "name": "Milk", "categoryId": 1 },
+    { "id": 2, "name": "Bread", "categoryId": 2 }
+  ],"items": [
+    { "id": 1, "name": "Milk", "categoryId": 1 },
+    { "id": 2, "name": "Bread", "categoryId": 2 }
+  ]
+}
