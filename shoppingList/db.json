@@ -1,13 +1,370 @@
 {
   "categories": [
-    { "id": 1, "name": "Dairy" },
-    { "id": 2, "name": "Bakery" }
+    {
+      "id": "1",
+      "name": "Dairy"
+    },
+    {
+      "id": "2",
+      "name": "Bakery"
+    }
   ],
   "products": [
-    { "id": 1, "name": "Milk", "categoryId": 1 },
-    { "id": 2, "name": "Bread", "categoryId": 2 }
-  ],"items": [
-    { "id": 1, "name": "Milk", "categoryId": 1 },
-    { "id": 2, "name": "Bread", "categoryId": 2 }
+    {
+      "id": "1",
+      "name": "Milk",
+      "categoryId": 1
+    },
+    {
+      "id": "2",
+      "name": "Bread",
+      "categoryId": 2
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "name": "Milk",
+      "categoryId": 1
+    },
+    {
+      "id": "2",
+      "name": "Bread",
+      "categoryId": 2
+    },
+    {
+      "id": "1728377804994",
+      "name": "er",
+      "quantity": "1",
+      "notes": "er",
+      "category": "er"
+    },
+    {
+      "id": "1728377806410",
+      "name": "er",
+      "quantity": "1",
+      "notes": "er",
+      "category": "er"
+    },
+    {
+      "id": "1728377873523",
+      "name": "wedewd",
+      "quantity": "1",
+      "notes": "wefded",
+      "category": "wedwe"
+    },
+    {
+      "id": "1728377875211",
+      "name": "wedewd",
+      "quantity": "1",
+      "notes": "wefded",
+      "category": "wedwe"
+    },
+    {
+      "id": "1728377893843",
+      "name": "wedewd",
+      "quantity": "1",
+      "notes": "wefded",
+      "category": "wedwe"
+    },
+    {
+      "id": "1728377894371",
+      "name": "wedewd",
+      "quantity": "1",
+      "notes": "wefded",
+      "category": "wedwe"
+    },
+    {
+      "id": "1728377894564",
+      "name": "wedewd",
+      "quantity": "1",
+      "notes": "wefded",
+      "category": "wedwe"
+    },
+    {
+      "id": "1728377915843",
+      "name": "wedewd",
+      "quantity": "1",
+      "notes": "wefded",
+      "category": "wedwe"
+    },
+    {
+      "id": "1728381063875",
+      "name": "fr",
+      "quantity": "1",
+      "notes": "rfrf",
+      "category": "rf"
+    },
+    {
+      "id": "1728382538195",
+      "name": "sdds",
+      "quantity": "2",
+      "notes": "sdd",
+      "category": "ds"
+    },
+    {
+      "id": "1728382683619",
+      "name": "ttt",
+      "quantity": "1",
+      "notes": "ttt",
+      "category": "ttt"
+    },
+    {
+      "name": "food",
+      "quantity": "2",
+      "notes": "qw",
+      "category": "qw",
+      "id": "{Date.now()}"
+    },
+    {
+      "id": "1728393306475",
+      "name": "belgravia",
+      "quantity": "1",
+      "notes": "don't drink it",
+      "category": "drinks"
+    },
+    {
+      "id": "1728393315963",
+      "name": "meat",
+      "quantity": "1",
+      "notes": "don't drink it",
+      "category": "drinks"
+    },
+    {
+      "id": "1728393324507",
+      "name": "food",
+      "quantity": "1",
+      "notes": "don't drink it",
+      "category": "drinks"
+    },
+    {
+      "id": "{Date.now()}",
+      "name": "e",
+      "quantity": "1",
+      "notes": "we",
+      "category": "sd"
+    },
+    {
+      "id": "{Date.now()}",
+      "name": "alchol",
+      "quantity": "1",
+      "notes": "dont drink it",
+      "category": "drinks"
+    },
+    {
+      "id": "{Date.now()}",
+      "name": "alchol",
+      "quantity": "1",
+      "notes": "dont drink it",
+      "category": "drinks"
+    },
+    {
+      "id": "{Date.now()}",
+      "name": "cake",
+      "quantity": "1",
+      "notes": "black forest",
+      "category": "junk"
+    },
+    {
+      "id": "{Date.now()}",
+      "name": "food",
+      "quantity": "1",
+      "notes": "qw",
+      "category": "qw"
+    },
+    {
+      "id": "{Date.now()}",
+      "name": "food",
+      "quantity": "1",
+      "notes": "qw",
+      "category": "qw"
+    },
+    {
+      "id": "{Date.now()}",
+      "name": "food",
+      "quantity": "1",
+      "notes": "qw",
+      "category": "qw"
+    },
+    {
+      "id": "{Date.now()}",
+      "name": "food",
+      "quantity": "1",
+      "notes": "qw",
+      "category": "qw"
+    },
+    {
+      "id": "{Date.now()}",
+      "name": "food",
+      "quantity": "1",
+      "notes": "qw",
+      "category": "qw"
+    },
+    {
+      "id": "{Date.now()}",
+      "name": "food",
+      "quantity": "1",
+      "notes": "qw",
+      "category": "qw"
+    },
+    {
+      "id": "{Date.now()}",
+      "name": "eee",
+      "quantity": "1",
+      "notes": "e",
+      "category": "e"
+    },
+    {
+      "id": "{Date.now()}",
+      "name": "erret",
+      "quantity": "3",
+      "notes": "eerre",
+      "category": "esdf"
+    },
+    {
+      "id": 1728470017984,
+      "name": "e",
+      "quantity": "1",
+      "notes": "sf",
+      "category": "sdf"
+    },
+    {
+      "id": 1728470040528,
+      "name": "edfsdf",
+      "quantity": "2",
+      "notes": "sferf",
+      "category": "sdfsdf"
+    },
+    {
+      "id": 1728540050138,
+      "name": "thtr",
+      "quantity": "1",
+      "notes": "ert",
+      "category": "dfg"
+    },
+    {
+      "id": "1728540535426",
+      "name": "tyt",
+      "quantity": "1",
+      "notes": "ert",
+      "category": "ert"
+    },
+    {
+      "id": "3f9f",
+      "name": "New Item",
+      "quantity": 1
+    },
+    {
+      "id": "2255",
+      "name": "New Item",
+      "quantity": 1
+    },
+    {
+      "id": "ed38",
+      "name": "New Item",
+      "quantity": 1
+    },
+    {
+      "id": "3501",
+      "name": "New Item",
+      "quantity": 1
+    },
+    {
+      "id": "5f7f",
+      "name": "New Item",
+      "quantity": 1
+    },
+    {
+      "id": "1728541440570",
+      "name": "ghjjjj",
+      "quantity": "1",
+      "notes": "fgdg",
+      "category": "dfg"
+    },
+    {
+      "id": "1728541990826",
+      "name": "fcc",
+      "quantity": "1",
+      "notes": "vhvh",
+      "category": "uuh"
+    },
+    {
+      "id": "1728541993050",
+      "name": "fcc",
+      "quantity": "1",
+      "notes": "vhvh",
+      "category": "uuh"
+    },
+    {
+      "id": "1728541993474",
+      "name": "fcc",
+      "quantity": "1",
+      "notes": "vhvh",
+      "category": "uuh"
+    },
+    {
+      "id": "1728541993682",
+      "name": "fcc",
+      "quantity": "1",
+      "notes": "vhvh",
+      "category": "uuh"
+    },
+    {
+      "id": "1728541993890",
+      "name": "fcc",
+      "quantity": "1",
+      "notes": "vhvh",
+      "category": "uuh"
+    },
+    {
+      "id": "128c",
+      "name": "New Item",
+      "quantity": 1
+    },
+    {
+      "id": "{ Date.now() }",
+      "name": "gfgfjhyghgh",
+      "quantity": "2",
+      "notes": "uhghgkjkjk",
+      "category": "hihhjj"
+    },
+    {
+      "id": "{ Date.now() }",
+      "name": "gfgfjhyghgh",
+      "quantity": "2",
+      "notes": "uhghgkjkjk",
+      "category": "hihhjj"
+    },
+    {
+      "id": "{ Date.now() }",
+      "name": "gfgfjhyghgh",
+      "quantity": "2",
+      "notes": "uhghgkjkjk",
+      "category": "hihhjj"
+    },
+    {
+      "id": "d3ee",
+      "name": "New Item",
+      "quantity": 1
+    },
+    {
+      "id": "1728542767283",
+      "name": "tert",
+      "quantity": "1",
+      "notes": "ert",
+      "category": "ert"
+    },
+    {
+      "id": "1728542773610",
+      "name": "tertrtert",
+      "quantity": "2",
+      "notes": "ertetert",
+      "category": "ertert"
+    },
+    {
+      "id": "7973",
+      "name": "New Item",
+      "quantity": 1
+    }
   ]
 }

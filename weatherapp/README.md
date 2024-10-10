@@ -1,17 +1,17 @@
 # MLab Weather App
 
-## Description
+ Description
 MLab Weather App is a modern weather application that provides real-time weather information, hourly and daily forecasts, and severe weather alerts. It allows users to save multiple locations, customize the theme, and access cached data when offline. Built with React and TailwindCSS, the app is optimized for performance and user experience.
 
-## Features
-- **Real-time Weather Information**: Displays current temperature, humidity, wind speed, and more.
-- **Location-Based Forecasting**: Users can set or detect their location automatically for weather updates.
-- **Hourly & Daily Forecasts**: Provides detailed hourly and daily weather forecasts.
-- **Multiple Locations**: Save and switch between different locations.
-- **Weather Alerts**: Sends push notifications for severe weather alerts.
-- **Customization**: Users can customize display units (Celsius/Fahrenheit) and app theme.
-- **Offline Access**: Cached data allows weather information to be viewed offline.
-- **Fast & Smooth Performance**: Optimized for a responsive and fast experience.
+ Features
+- Real-time Weather Information: Displays current temperature, humidity, wind speed, and more.
+- Location-Based Forecasting: Users can set or detect their location automatically for weather updates.
+- Hourly & Daily Forecasts: Provides detailed hourly and daily weather forecasts.
+- Multiple Locations: Save and switch between different locations.
+- Weather Alerts: Sends push notifications for severe weather alerts.
+- Customization: Users can customize display units (Celsius/Fahrenheit) and app theme.
+- Offline Access: Cached data allows weather information to be viewed offline.
+- Fast & Smooth Performance: Optimized for a responsive and fast experience.
 
 ## Table of Contents
 - [Installation](#installation)
